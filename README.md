@@ -6,7 +6,7 @@ This is meant to be a catalogue of characters, locations, cultures, items and sp
     <li>GUESTS can view the catalogue and check out any post that caught their eye for more information. They can also register to become an authorized user.</li>
     <li>AUTHORIZED USERS in addition to what guests can do can create, edit and delete their own posts.</li>
     <li>ADMINS can do all the same things and authorized users can, as well as edit, delete other's posts and remove authorized users from the site.</li>
-
+<ul></ul>
 Since this project was never made public, here are some images showing it work locally.</br>
 ![begin1](https://github.com/emilija-radzevica/begin.dev/assets/93608834/7315696a-ff2f-43b3-a8db-6e2c62e36c57)</br>
 *Homepage from guest POV </br>
