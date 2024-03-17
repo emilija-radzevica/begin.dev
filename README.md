@@ -1,4 +1,7 @@
 # BEGIN
+This was created as an exam project for the course "Web Technologies II". It's written with PHP in the Laravel framework.
+
+<strong>Description:</strong>
 This is meant to be a catalogue of characters, locations, cultures, items and species for those who partake in RPG campaigns and creative writing. The contents are supposed to help and inspire.</br>
 <ol>
     <li>GUESTS can view the catalogue and check out any post that caught their eye for more information. They can also register to become an authorized user.</li>
