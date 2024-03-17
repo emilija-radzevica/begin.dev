@@ -1,3 +1,4 @@
+# Begin
 This was created as an exam project for the course "Web Technologies II". </br>
 <strong>Description: </strong></br>
 This is meant to be a catalogue of characters, locations, cultures, items and species for those who partake in RPG campaigns and creative writing. The contents are supposed to help and inspire.</br>
