@@ -1,3 +1,7 @@
+
+![begin1](https://github.com/emilija-radzevica/begin.dev/assets/93608834/204b0c95-1455-47c8-b29e-cc74c750f9f8)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
