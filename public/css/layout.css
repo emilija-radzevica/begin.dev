@@ -1,0 +1,103 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+body {
+    background-image: url("/images/background.jpg");
+    background-size: 45%;
+    background-attachment: fixed;
+    /* background-position: center center; */
+    display: flex;
+    justify-content: center;
+}
+.centered-content {
+    background: linear-gradient(rgb(0, 0, 0, 0) 10vh, rgb(0, 0, 0, 0.6) 15vh);
+    height: fit-content;
+    min-height: 100vh ;
+    width: 80vw;
+    position: relative;
+    padding-bottom: 10%;
+}
+h1 {
+    font-family: 'Chakra Petch', sans-serif;
+    color: white;
+    text-shadow: 0 0 8px #000000, 0 0 8px #000000;
+    font-size: 5rem;
+    text-align: center;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+.nav {
+    background-color: rgb(13, 16, 16);
+    padding: 2vh 3% 2vh 8%;
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+.nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav ul li {
+    list-style-type: none;
+}
+.nav ul li a {
+    color: white;
+    font-size: 1.7rem;
+    text-decoration: none;
+}
+.logout {
+    color: white;
+    font-size: 1.7rem;
+    border: none;
+    background: none;
+}
+.navigation {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 80%;
+    align-items: center;
+}
+.navigation li:not(:first-of-type) {
+    margin-left: 13%;
+}
+.create {
+    border: 2px solid white;
+    padding: 4px 15px 4px 15px;
+}
+.create:hover {
+    background-color: rgb(61, 83, 107, 0.8);
+}
+.login {
+    display: flex;
+    flex-direction: row;
+    width: 20%;
+    min-width: 200px;
+    justify-content: flex-end;
+    white-space: nowrap;
+    align-items: center
+    ;
+}
+.login span {
+    color: white;
+    font-size: 1.2rem;
+}
+.login li:first-of-type {
+    margin-right: 15%;
+}
+
+footer {
+    background-color: rgb(13, 16, 16);
+    padding: 2vh 3% 2vh 3%;
+    position: absolute;
+    bottom: 0;
+    width: 75.21vw;
+}  
+footer p {
+    color: white;
+    text-align: center;
+    font-size: 1.1rem;
+}

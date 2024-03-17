@@ -1,0 +1,113 @@
+main {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 5%;
+}
+.user-posts {
+    width: 55%;
+}
+.one-user-post {
+    display: flex;
+    flex-direction: row;
+    padding: 3%;
+    margin-bottom: 3%;
+    justify-content: space-between;
+    background-color: rgb(0, 0, 0, 0.6);
+    align-items: center;
+}
+.about {
+    /* color: white; */
+    width: 70%;
+    padding-right: 5%;
+    border-right: 2px solid rgb(186, 218, 251, 0.8);
+}
+.post-title {
+    font-size: 1.6rem;
+    margin-bottom: 2%;
+    margin-left: 4%;
+    color: white;
+}
+.post-title a {
+    text-decoration: none;
+    color: white;
+}
+.summary {
+    font-size: 1.1rem;
+    color: rgb(186, 218, 251);
+}
+.action-btn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.action-btn a {
+    font-size: 1.3rem;
+    color: white;
+    text-decoration: none;
+    border: 2px solid white;
+    padding: 4px 15px 4px 15px;
+    background-color: rgb(61, 83, 107, 0.8);
+    margin-bottom: 10%;
+    width: 63%;
+}
+.action-btn button {
+    font-size: 1.3rem;
+    color: white;
+    text-decoration: none;
+    border: 2px solid white;
+    padding: 4px 15px 4px 15px;
+    background-color: rgb(61, 83, 107, 0.8);
+}
+.user-info {
+    background-color: rgb(61, 83, 107, 0.8);
+    border: 2px solid white;
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: min-content;
+}
+.user-info h3 {
+    color: white;
+    font-size: 1.6rem;
+    margin-top: 8%;
+    margin-bottom: 4%;
+    border-bottom: 2px solid rgb(255, 255, 255, 0.8);
+    width: 80%;
+    text-align: center;
+    padding-bottom: 4%;
+}
+.info {
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 10%;
+    white-space: nowrap;
+}
+.titles {
+    text-align: end;
+    width: 34%;
+    color: white;
+    font-size: 1.1rem;
+}
+.titles p {
+    margin-bottom: 20%;
+    text-transform: uppercase;
+}
+.data {
+    width: 60%;
+    color: white;
+    font-size: 1.3rem;
+    margin-top: 2%;
+}
+.data p {
+    margin-bottom: 10%;
+}
+
+.nopost {
+    color: white;
+    font-size: 1.6rem;
+}
