@@ -1,3 +1,4 @@
+# BEGIN
 This is meant to be a catalogue of characters, locations, cultures, items and species for those who partake in RPG campaigns and creative writing. The contents are supposed to help and inspire.</br>
 <ol>
     <li>GUESTS can view the catalogue and check out any post that caught their eye for more information. They can also register to become an authorized user.</li>
